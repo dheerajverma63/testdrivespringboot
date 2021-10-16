@@ -1,0 +1,10 @@
+insert into alien values (101,'Dheeraj','Go');
+insert into alien values (102,'Neelam','Java');
+insert into alien values (103,'Ankit','Java');
+insert into alien values (104,'Rakesh','Python');
+insert into alien values (105,'Shruti','SQL');
+insert into alien values (106,'Shikha','Unix');
+insert into alien values (107,'Deepak','Android');
+insert into alien values (108,'Kunal','Java');
+insert into alien values (109,'Purshuttam','PHP');
+insert into alien values (110,'Kanta','Python');
